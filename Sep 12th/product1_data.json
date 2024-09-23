@@ -1,0 +1,37 @@
+[
+  {
+    "ProductID": 101,
+    "ProductName": "Laptop",
+    "Category": "Electronics",
+    "Price": 1200,
+    "Stock": 35
+  },
+  {
+    "ProductID": 102,
+    "ProductName": "Smartphone",
+    "Category": "Electronics",
+    "Price": 800,
+    "Stock": 80
+  },
+  {
+    "ProductID": 103,
+    "ProductName": "Desk Chair",
+    "Category": "Furniture",
+    "Price": 150,
+    "Stock": 60
+  },
+  {
+    "ProductID": 104,
+    "ProductName": "Monitor",
+    "Category": "Electronics",
+    "Price": 300,
+    "Stock": 45
+  },
+  {
+    "ProductID": 105,
+    "ProductName": "Desk",
+    "Category": "Furniture",
+    "Price": 350,
+    "Stock": 25
+  }
+]

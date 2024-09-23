@@ -1,0 +1,6 @@
+TransactionID,TransactionDate,ProductID,Quantity,Price
+T101,2024-01-01,Laptop,2,1200
+T102,2024-01-02,Phone,1,800
+T103,2024-01-03,Tablet,3,600
+T104,2024-01-04,Monitor,1,300
+T105,2024-01-05,Mouse,5,25

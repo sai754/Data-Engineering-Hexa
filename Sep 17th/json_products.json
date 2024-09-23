@@ -1,0 +1,32 @@
+[
+  {
+    "ProductID": "P101",
+    "ProductName": "Laptop",
+    "Category": "Electronics",
+    "Price": 1200
+  },
+  {
+    "ProductID": "P102",
+    "ProductName": "Phone",
+    "Category": "Electronics",
+    "Price": 800
+  },
+  {
+    "ProductID": "P103",
+    "ProductName": "Tablet",
+    "Category": "Electronics",
+    "Price": 600
+  },
+  {
+    "ProductID": "P104",
+    "ProductName": "Monitor",
+    "Category": "Electronics",
+    "Price": 300
+  },
+  {
+    "ProductID": "P105",
+    "ProductName": "Mouse",
+    "Category": "Accessories",
+    "Price": 25
+  }
+]
